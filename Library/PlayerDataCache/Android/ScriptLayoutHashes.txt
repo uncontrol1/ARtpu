@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/user/Desktop/диплом/альфа верси проги/Guide.FIT.apk
+C:/Users/user/Desktop/мага 2 сем/курсовая на 50стр/AR.museum.apk
 SceneListBegin?
 Assets/Scenes/menu.unity
 Assets/Scenes/SampleScene.unity
